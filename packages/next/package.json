@@ -87,7 +87,7 @@
     "@swc/helpers": "0.5.1",
     "busboy": "1.6.0",
     "caniuse-lite": "^1.0.30001406",
-    "postcss": "8.4.14",
+    "postcss": "8.4.31",
     "styled-jsx": "5.1.1",
     "watchpack": "2.4.0",
     "zod": "3.21.4"
